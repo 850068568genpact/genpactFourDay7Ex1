@@ -1,0 +1,11 @@
+C:\DotnetTraining\Day7\ShapeArUsage\ShapeArUsage\bin\Debug\ShapeArUsage.exe.config
+C:\DotnetTraining\Day7\ShapeArUsage\ShapeArUsage\bin\Debug\ShapeArUsage.exe
+C:\DotnetTraining\Day7\ShapeArUsage\ShapeArUsage\bin\Debug\ShapeArUsage.pdb
+C:\DotnetTraining\Day7\ShapeArUsage\ShapeArUsage\bin\Debug\ShapeAreaLib.pdb
+C:\DotnetTraining\Day7\ShapeArUsage\ShapeArUsage\obj\Debug\ShapeArUsage.csproj.AssemblyReference.cache
+C:\DotnetTraining\Day7\ShapeArUsage\ShapeArUsage\obj\Debug\ShapeArUsage.csproj.SuggestedBindingRedirects.cache
+C:\DotnetTraining\Day7\ShapeArUsage\ShapeArUsage\obj\Debug\ShapeArUsage.csproj.CoreCompileInputs.cache
+C:\DotnetTraining\Day7\ShapeArUsage\ShapeArUsage\obj\Debug\ShapeArUsage.csproj.CopyComplete
+C:\DotnetTraining\Day7\ShapeArUsage\ShapeArUsage\obj\Debug\ShapeArUsage.exe
+C:\DotnetTraining\Day7\ShapeArUsage\ShapeArUsage\obj\Debug\ShapeArUsage.pdb
+C:\DotnetTraining\Day7\ShapeArUsage\ShapeArUsage\bin\Debug\ShapeAreaLib.dll
